@@ -1,0 +1,2 @@
+export("combat_apply", "combat_fit")
+importFrom("stats", "coef", "lm", "model.matrix", "var")
