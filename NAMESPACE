@@ -1,2 +1,6 @@
-export("combat_apply", "combat_fit")
-importFrom("stats", "coef", "lm", "model.matrix", "var")
+export("combat_apply", "combat_fit", "lmm_fit", "prescale_apply", "prescale_fit")
+importFrom("car", "linearHypothesis")
+importFrom("caret", "findLinearCombos")
+importFrom("Matrix", "rankMatrix")
+importFrom("nlme", "lme")
+importFrom("stats", "coef", "lm", "median", "model.matrix", "qnorm", "sd", "var")

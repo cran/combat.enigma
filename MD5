@@ -1,7 +1,9 @@
-6a50df8f938e70963c1b8a782db6dac7 *DESCRIPTION
-72298f310570ed99d54de35491113931 *NAMESPACE
-a0b7b92c0badd0383c66edea3528f471 *R/source.R
+5764d63172d51bf634c3acbf98683431 *DESCRIPTION
+1a02ed44b24fb0a674503756dbd39b35 *NAMESPACE
+9b5f98be2ed1c8ec4712f08750f660c8 *NEWS
+58f08d04d983e11397f32ef00ae7f3e5 *R/source.R
 aee99a0223af2fbc2828f478edcf00c8 *data/combat_example.rda
-3075f8f87218ee9764f65bfd0f5a0fa2 *man/combat_apply.Rd
 074f579fc8d71f8034bece528cb60a1d *man/combat_example.Rd
-6bea23f46494e04d793232f200b4d823 *man/combat_fit.Rd
+4084d665e8c437fc26e62ae2e7efb556 *man/combat_fit.Rd
+34047789b4d112b9de34ec317d9c90bf *man/lmm_fit.Rd
+6e0656f6731548873d6edbad6eeb4c96 *man/prescale_fit.Rd
