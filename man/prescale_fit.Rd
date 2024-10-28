@@ -20,7 +20,7 @@ prescale_apply(combat_parameters, dat, site, cov = NULL, verbose = TRUE)
 \details{\code{prescale_fit} function finds a prescaling parameter for each site so that, after calling \code{prescale_apply}, the voxelwise-median standard deviation after removing the effects of covariates is 1 (in the training data, but it might not be the case in new data).}
 \value{\code{prescale_fit} returns a list of parameters for \code{prescale_apply}; \code{prescale_apply} returns the list of parameters plus the prescaled data (item \code{dat.combat})}
 \references{
-  Neural correlates of human fear conditioning and sources of variability: A mega-analysis and normative modeling study of fMRI data from 2,199 individuals, submitted.
+  Neural correlates of human fear conditioning and sources of variability: A mega-analysis and normative modeling study of fMRI data from 2,199 individuals, to be submitted.
 }
 \author{Joaquim Radua}
 \seealso{\code{\link{combat_fit}}, and \code{\link{lmm_fit}}}

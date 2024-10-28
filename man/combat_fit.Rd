@@ -32,7 +32,7 @@ In situations where the use of ComBat is problematic, such as when all participa
   Increased power by harmonizing structural MRI site differences with the ComBat batch adjustment method in ENIGMA.
   \emph{Neuroimage}, \bold{218}, 116956, doi:10.1016/j.neuroimage.2020.116956.
 
-  Neural correlates of human fear conditioning and sources of variability: A mega-analysis and normative modeling study of fMRI data from 2,199 individuals, submitted.
+  Neural correlates of human fear conditioning and sources of variability: A mega-analysis and normative modeling study of fMRI data from 2,199 individuals, to be submitted.
 }
 \author{Joaquim Radua, based on the previous work of others (see Details)}
 \seealso{\code{\link{prescale_fit}} and \code{\link{lmm_fit}}}

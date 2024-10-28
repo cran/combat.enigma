@@ -19,7 +19,11 @@ lmm_fit(dat, site, cov = NULL, n.min = 10, impute_missing_cov = FALSE,
 \details{In several situations, the use of ComBat is problematic, such as when all participants of some sites have missing data for some ROIs or voxels. In these cases, a linear mixed effects model (LMM) may be preferable. On another note, setting \code{prescaling} equal to \code{TRUE} may be especially beneficial when the sites use different scales, as may be easily the case in fMRI mega-analyses.}
 \value{A list of parameters plus the results of the LMM.}
 \references{
-  Neural correlates of human fear conditioning and sources of variability: A mega-analysis and normative modeling study of fMRI data from 2,199 individuals, submitted.
+  Pinheiro JC, Bates DM (2000).
+  \emph{Mixed-Effects Models in S and S-PLUS}.
+  Springer, New York, doi:10.1007/b98882.
+  
+  Neural correlates of human fear conditioning and sources of variability: A mega-analysis and normative modeling study of fMRI data from 2,199 individuals, to be submitted.
 }
 \author{Joaquim Radua}
 \seealso{\code{\link{combat_fit}}, \code{\link{prescale_fit}}, and \code{\link[car]{linearHypothesis}}}

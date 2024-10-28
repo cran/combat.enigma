@@ -1,9 +1,9 @@
-5764d63172d51bf634c3acbf98683431 *DESCRIPTION
+6285e8b6f1b89d7acb844a76b5d48f3e *DESCRIPTION
 1a02ed44b24fb0a674503756dbd39b35 *NAMESPACE
-9b5f98be2ed1c8ec4712f08750f660c8 *NEWS
+65c99a364759b526287e68d81d22c836 *NEWS
 58f08d04d983e11397f32ef00ae7f3e5 *R/source.R
 aee99a0223af2fbc2828f478edcf00c8 *data/combat_example.rda
 074f579fc8d71f8034bece528cb60a1d *man/combat_example.Rd
-4084d665e8c437fc26e62ae2e7efb556 *man/combat_fit.Rd
-34047789b4d112b9de34ec317d9c90bf *man/lmm_fit.Rd
-6e0656f6731548873d6edbad6eeb4c96 *man/prescale_fit.Rd
+6f0e0a7098699d72fe0128aff2277739 *man/combat_fit.Rd
+3466fd48cc4270664f05bf279d00adc2 *man/lmm_fit.Rd
+865ca376330afbe72079105fdb6144ab *man/prescale_fit.Rd
